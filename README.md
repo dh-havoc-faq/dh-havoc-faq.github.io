@@ -6,4 +6,8 @@ DH Havoc FAQ - Now on Github!
 
 # To build
 Update contents in markdown/index.md
-generate-md --layout mixu-bootstrap-2col --input ./markdown --output
+
+    generate-md --layout mixu-bootstrap-2col --input ./markdown --output .
+
+# View at
+<https://dh-havoc-faq.github.io>

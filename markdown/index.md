@@ -1,4 +1,6 @@
-# THIS FAQ IN ITS CURRENT STATE IS OUT OF DATE
+# Havoc FAQ
+
+**THIS FAQ IN ITS CURRENT STATE IS OUT OF DATE**
 
 # Forenote
 
@@ -8,7 +10,7 @@ Most answers are picked based on agreed responses in the class Discord, raider.i
 
 # Useful Links
 
-- Raidbot -**Sim Yourself**
+- Raidbot - **Sim Yourself**
   - <https://www.raidbots.com/simbot>
 - Raider.io - M+ rankings
   - Take build information with a grain of salt as gear is sometimes doesn’t match what players actually used.
